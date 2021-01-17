@@ -32,3 +32,7 @@ for i in range(N):
     xbars[i] = sample.mean()
 
 xbars.mean(), xbars.std()
+
+
+
+#
